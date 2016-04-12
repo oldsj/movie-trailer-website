@@ -20,5 +20,6 @@ All original code is from udacity.com and modified by me for style and function
 
 ```
 git clone https://github.com/oldsjam/movie-trailer-website.git
+cd movie-trailer-website/
 python entertainment_center.py
 ```

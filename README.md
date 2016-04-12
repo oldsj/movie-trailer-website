@@ -9,6 +9,7 @@ It uses python to dynamically create an HTML file with images, titles, summaries
 
 
 All original code is from udacity.com and modified by me for style and function
+
 0. udacity.com
   - fresh_tomatoes.py
   - media.py
